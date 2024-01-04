@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("jkffldlfl","Commit 1")
-        Log.d("jkffldlfl","Some updates after revert commit")
     }
 }
